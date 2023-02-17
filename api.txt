@@ -1,0 +1,18 @@
+link api: 
+ http://localhost/laravel/public/api/blog
+
+
+
+
+
+
+
+
+ <link href="%PUBLIC_URL%/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/frontend/css/font-awesome.min.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/frontend/css/prettyPhoto.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/frontend/css/price-range.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/frontend/css/animate.css" rel="stylesheet">
+    <link href="%PUBLIC_URL%/frontend/css/main.css" rel="stylesheet"> 
+    <link href="%PUBLIC_URL%/frontend/css/responsive.css" rel="stylesheet">
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
